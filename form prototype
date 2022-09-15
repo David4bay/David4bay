@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="form.css";>
     <title>Document</title>
 </head>
-<body><form><fieldset>
+<body>
+    <form>
+        <fieldset>
     <h2>Registration form</h2>
     <fieldset>
         <legend>User Personal information</legend>
